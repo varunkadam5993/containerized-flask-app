@@ -3,6 +3,7 @@
 A Python Flask web application containerized using Docker and deployed on Amazon ECS with AWS Fargate. The Docker image is stored in Amazon ECR.
 
 ## Architecture
+![AWS Architecture Diagram](screenshots/architecture-diagram.png)
 
 ```text
                     USER
